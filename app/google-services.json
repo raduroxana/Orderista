@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "287274462028",
+    "firebase_url": "https://orderistalicenta.firebaseio.com",
+    "project_id": "orderistalicenta",
+    "storage_bucket": "orderistalicenta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287274462028:android:753f1b61383cb53d",
+        "android_client_info": {
+          "package_name": "com.example.radur.orderista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287274462028-fsvaoc2ihska30ntovqq8phnahig0in3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW0wTleBP-Ro7fHJCa7-9uJWPqbJPxZwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287274462028-fsvaoc2ihska30ntovqq8phnahig0in3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
